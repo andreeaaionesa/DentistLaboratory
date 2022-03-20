@@ -1,0 +1,8 @@
+7
+0;Popa Alina;23;4657890;carie
+1;David Ana;29;4688890;plomba
+2;Lan Radu;16;88765890;aparat dentar
+3;Vantur Iulia;12;34567890;carie
+4;Banea Ovidiu;18;3456789;mulaj
+5;Pop Ioan;18;23456789;carie
+6;Roxana Maria;19;6001910700092;carie
